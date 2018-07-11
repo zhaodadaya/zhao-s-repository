@@ -1,0 +1,6 @@
+print('请输入身高（米）')
+tall = input()
+print('请输入体重（千克）')
+weight = input()
+BIM = float(weight)/(float(tall)**2)
+print('您的BIM值为'+str(BIM))

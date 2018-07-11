@@ -1,0 +1,7 @@
+print('直角边长：')
+l=input()
+print('另一直角边长：')
+ll=input()
+lll=(float(l)**2+float(ll)**2)**(1/2)
+print('斜边长为：')
+print(str(lll))
